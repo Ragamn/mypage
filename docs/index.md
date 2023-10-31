@@ -36,3 +36,5 @@
 hoge[hoge](../hoge.md)hoge
 
 hoge[fuga](../fuga/fuga.md)fuge
+
+![hoge](/hoge.png)
